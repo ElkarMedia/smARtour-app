@@ -1,2 +1,2 @@
 # smARtour-app
-smARtour aplikazioaren App-a
+smARtour aplikazioa
