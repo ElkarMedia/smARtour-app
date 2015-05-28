@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_section_games">Jokoak</string>
+    <string name="title_section_profile">Perfila</string>
+    <string name="title_section_explore">Explore</string>
+    <string name="distance">%.0f metro</string>
+</resources>

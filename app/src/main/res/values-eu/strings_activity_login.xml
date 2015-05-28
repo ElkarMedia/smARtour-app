@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Emaila</string>
+    <string name="prompt_password">Pasahitza (aukeran)</string>
+    <string name="action_sign_in">Sartu edo izena eman</string>
+    <string name="action_sign_in_short">Sartu</string>
+    <string name="plus_sign_out">Aldatu Google+ kontua</string>
+    <string name="plus_disconnect">Deskonektatu Google+</string>
+    <string name="error_invalid_email">Emaila ez da zuzena</string>
+    <string name="error_invalid_password">Pasahitza motzegia da</string>
+    <string name="error_incorrect_password">Pasahitz okerra</string>
+    <string name="error_field_required">Beharrezko eremua</string>
+</resources>
